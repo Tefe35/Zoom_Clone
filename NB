@@ -14,12 +14,12 @@ DEPLOY
 12.git init 
 13.git add .
 14.git commit -m "ZOOM CLONE"
-15. herokul create
+15. heroku create
 16.git push heroku master
 17. heroku ps:scale web=1
 18. heroku open
 
-
+https://enigmatic-dusk-29836.herokuapp.com/fb91d5ad-96a6-453f-a7e6-d65cb7b90643
 
 
 
